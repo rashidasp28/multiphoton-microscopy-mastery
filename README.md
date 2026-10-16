@@ -1,15 +1,13 @@
 # Multiphoton Microscopy Mastery
 
-A structured, cumulative learning repository for multiphoton microscopy.
+A cumulative, theory-only, 40-lesson curriculum covering electromagnetic optics, fluorescence, nonlinear excitation, multiphoton instrumentation, and advanced photophysics.
 
-## Repository map
-
-- [40-lesson theoretical roadmap](curriculum/roadmap.md)
-- [Flashcard archive](flashcards/README.md)
-- [Curated sources](references/README.md)
-- [Figure archive](figures/README.md)
-
-A cumulative, theory-only, 40-lesson curriculum covering electromagnetic optics, nonlinear excitation, ultrafast laser physics, tissue light transport, signal formation, detection, imaging-system design, and critical reading of the literature.
+## Learning archive
+- [40-lesson roadmap](curriculum/roadmap.md)
+- [Lesson 1: 25 flashcards](flashcards/stage-01-foundations/lesson-01-what-is-light.csv)
+- [Scholarly articles and DOI catalogue](references/articles.csv)
+- [Textbooks](references/books.md)
+- [Reference preservation and copyright policy](references/README.md)
 
 Future lessons will add new lesson-specific flashcards, illustrations, and source records without overwriting earlier archives. This repository is dedicated to theoretical learning, not experimental data analysis.
 
