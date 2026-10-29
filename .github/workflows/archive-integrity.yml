@@ -21,5 +21,8 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Test archive validator
+        run: python -m unittest discover -s tests -v
+
       - name: Validate cumulative learning archive
         run: python scripts/validate_learning_archive.py
